@@ -32,5 +32,5 @@ Pixie Sword é jogado online. O objetivo é sobreviver e derrotar os inimigos en
 
 
 ![pixie sword](https://github.com/user-attachments/assets/c8df3e51-0ec4-489a-9683-f6ecfd4b6a93)
-)
+
 
